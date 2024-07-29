@@ -62,10 +62,10 @@ Click Send.
 
 Get Record by ID:
 
-Create a GET request to http://127.0.0.1:8000/api/detail/<model_name>/<id>/
+Create a GET request to http://127.0.0.1:8000/api/detail/<model_name>/id/
 
 
-Replace <model_name> with the desired model name and <id> with the record ID.
+Replace <model_name> with the desired model name and id with the record ID.
 Click Send.
 
 
